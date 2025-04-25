@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #005BAB;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #003F7D;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+.bio p {
+    line-height: 1.6;
+}
+
+.writeups ul,
+.contact ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.writeups li,
+.contact li {
+    margin: 0.5rem 0;
+}
+
+.writeups a,
+.contact a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #003F7D;
+    font-size: 0.9rem;
+}
